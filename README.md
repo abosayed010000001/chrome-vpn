@@ -1,4 +1,4 @@
-# Chrome+VPN
+ # Chrome+VPN
 
 A combination of headless Chrome and a VPN to force all Chrome traffic through the tunnel adapter. No more WebRTC leaks.
 This image allows the VPN server to change at regular intervals, and choose a specific country to use VPN servers from.
